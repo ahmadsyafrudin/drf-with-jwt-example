@@ -231,7 +231,6 @@ paket-files/
 .cr/
 __pycache__/
 *.pyc
-.gitignore
 db.sqlite3
 
 koperasi/__pycache__/
