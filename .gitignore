@@ -231,3 +231,9 @@ paket-files/
 .cr/
 __pycache__/
 *.pyc
+.gitignore
+db.sqlite3
+
+koperasi/__pycache__/
+login/__pycache__/
+login/migrations/__pycache__/
